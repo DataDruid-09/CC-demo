@@ -1,1 +1,1 @@
-# CC-demo
+# Netflix Recommendation System
